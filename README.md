@@ -32,9 +32,8 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏆 Awards </h2><br>
 
-🏅 GDG Cloud of Idea - 3rd Place <br><br>
-🏅 Hanwha Systems Beyond SW Camp Final Project - 1st Place
-
+🏅 Hanwha Systems Beyond SW Camp Final Project - 1st Place<br><br>
+🏅 GDG Cloud of Idea - 3rd Place 
 </div>
 
 <br>
@@ -42,8 +41,8 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📜 Certificates </h2><br>
 
-📌 COS Pro Python 2급 <br><br>
-📌 ADsP (데이터분석 준전문가)
+📌 ADsP (데이터분석 준전문가)<br><br>
+📌 COS Pro Python 2급 
 
 </div>
 
@@ -62,5 +61,101 @@
 | 코멘토 - 실전 분석 역량 기르기 | 2024.01 ~ 2024.02 |
 
 </div>
+
+<br>
+
+<div align="center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Featured Project </h2><br>
+
+<h1>📡 HRadar</h1>
+
+성과평가를 역량강화로 연결하는<br>
+B2B SaaS 기반 HRM · HRD 통합 인사관리 시스템
+
+<br><br>
+
+<a href="https://github.com/yendlessse/HIT-HRadar">
+<img src="https://img.shields.io/badge/Repository-HRadar-181717?style=for-the-badge&logo=Github&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+### 👨‍💻 What I Implemented
+
+- Goal/KPI/OKR 도메인 설계 및 성과 관리 기능 구현
+- KPI 기반 개인 성과 대시보드 계산 로직 개발
+- 다면평가 회차 · 평가유형 · 평가배정 기능 구현
+- LLM 기반 역량강화 리포트 데이터 전처리 및 CQRS 구조 설계
+
+<br>
+
+### 🛠 Tech Stack
+
+`Java 21` `Spring Boot` `JPA` `MyBatis` `Vue3` `MariaDB` `MongoDB`  
+`AWS` `Github Actions` `ArgoCD` `MSA` `CQRS`
+
+<br>
+
+<div align="center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📦 Sub Projects </h2><br>
+</div>
+
+## 💪 운동의 민족
+
+운동 루틴을 제작·판매하고 구매 후 바로 운동 계획에 적용할 수 있는  
+운동 콘텐츠 커머스 + 운동 관리 플랫폼
+
+### 👨‍💻 What I Implemented
+
+- Notion 스타일 자유 편집형 운동 기록장 구현
+- 운동 템플릿 구매 · 보관 · 날짜 적용 기능 개발
+- Toss Payments 기반 결제 및 포인트 시스템 연동
+- 파일 업로드 보상 트랜잭션 및 배포 환경 구조 개선
+
+### 🛠 Tech Stack
+
+`Java` `Spring Boot` `JPA` `Vue3` `MariaDB` `Redis`  
+`Docker` `Jenkins` `Kubernetes` `ArgoCD`
+
+### 🔗 Repository
+
+<a href="https://github.com/nation-of-movement/undong-minjok-api">
+<img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=Github&logoColor=white">
+</a>
+
+<a href="https://github.com/nation-of-movement/undong-minjok-client">
+<img src="https://img.shields.io/badge/Frontend-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+</a>
+
+<br><br>
+
+## 🌟 Linkee
+
+실시간 CS 퀴즈와 소셜 기능을 결합한  
+참여형 실시간 학습 플랫폼
+
+### 👨‍💻 What I Implemented
+
+- 네이버 OAuth2 소셜 로그인 및 JWT 인증 연동
+- STOMP WebSocket 기반 실시간 채팅 기능 구현
+- Redis Pub/Sub 기반 멀티 서버 메시지 동기화
+- 친구 초대 · 그룹 채팅 등 소셜 기능 구현
+
+### 🛠 Tech Stack
+
+`Spring Boot` `Spring Security` `OAuth2` `JWT` `WebSocket`  
+`Redis` `MongoDB` `React` `Socket.io`
+
+### 🔗 Repository
+
+<a href="https://github.com/Linkee-Project/Linkee-api">
+<img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=Github&logoColor=white">
+</a>
+
+<a href="https://github.com/Linkee-Project/Linkee-Front-Vue">
+<img src="https://img.shields.io/badge/Frontend-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+</a>
 
 <br>
